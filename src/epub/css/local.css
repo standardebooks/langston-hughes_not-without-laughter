@@ -36,6 +36,50 @@ p span.i2{
 }
 /* End poetry */
 
+/* Begin letters */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header [epub|type~="z3998:salutation"]{
+	text-align: left;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"] + p,
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:recipient"],
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+/* End letters */
+
+.telegram{
+	font-variant: all-small-caps;
+}
+
+#chapter-19 header,
+#chapter-25 header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
 #chapter-8 b{
 	text-transform: uppercase;
 }
