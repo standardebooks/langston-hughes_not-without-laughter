@@ -80,6 +80,7 @@ footer{
 	text-align: center;
 }
 
-#chapter-8 b{
+#chapter-8 b,
+#chapter-24 b{
 	text-transform: uppercase;
 }
