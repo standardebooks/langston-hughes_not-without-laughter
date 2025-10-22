@@ -19,6 +19,11 @@
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
 /* End poetry */
 
 /* Begin letters */
