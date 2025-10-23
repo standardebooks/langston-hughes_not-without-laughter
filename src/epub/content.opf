@@ -41,7 +41,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An African-American boy comes of age in a small town in Kansas.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>The first prose novel published by <a href="https://standardebooks.org/ebooks/langston-hughes">Langston Hughes</a>, <i>Not Without Laughter</i> is a coming-of-age novel that depicts the adolescent years of Sandy, an African-American boy growing up in a small town in Kansas. The novel is structured as a series of vignettes that depict Sandy’s interactions with his family and the surrounding society, including experiences of racial discrimination. It explores how social structures of race, class, and religion shape the lives of African-American families. Hughes aimed to depict “a typical Negro family in the Middle West,” drawing on his own experiences of growing up in Kansas alongside families similar to Sandy’s family.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20240413</dc:source>
