@@ -63,10 +63,4 @@ footer{
 #chapter-25 header{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
-}
-
-#chapter-8 b,
-#chapter-24 b{
-	text-transform: uppercase;
 }
